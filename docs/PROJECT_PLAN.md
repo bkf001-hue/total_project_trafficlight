@@ -25,7 +25,7 @@ and the remaining seconds are shown on a 7-segment display.
 ### 4️⃣ Block Diagram
 
 ### 🔷 4️⃣ Block Diagram
-```text
+
                     ┌────────────────────────────────────────────────────┐
                     │                     Top Module                     │
                     │────────────────────────────────────────────────────│
