@@ -1,5 +1,4 @@
-# 🧠 Personal Chip Design Project Plan  
-### 반도체 설계 토탈프로젝트
+# 반도체 설계 토탈프로젝트 
 
 ---
 
