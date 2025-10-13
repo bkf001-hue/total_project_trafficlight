@@ -1,5 +1,5 @@
 # 🧠 Personal Chip Design Project Plan  
-### 반도체 설계 토탈프로젝트 (TinyTapeout 기반)
+### 반도체 설계 토탈프로젝트
 
 ---
 
