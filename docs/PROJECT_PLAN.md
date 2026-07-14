@@ -1,4 +1,4 @@
-<img width="1462" height="1102" alt="image" src="https://github.com/user-attachments/assets/254f1335-83b3-4770-966a-9b5480906338" /># 반도체 설계 토탈프로젝트 
+# 반도체 설계 토탈프로젝트 
 
 ---
 
